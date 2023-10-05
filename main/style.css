@@ -1,0 +1,16 @@
+.section__header {
+    text-align: center;
+}
+#top__section {
+    padding: 0px 200px;
+}
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+.test {
+    width: 400px;
+    height: 100px;
+    text-align: center;
+}
