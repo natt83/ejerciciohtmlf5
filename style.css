@@ -2,9 +2,30 @@ body {
   background-color: bisque;
 }
 .contenedor {
-  position: relative;
+  position:absolute;
+  margin-left: 30%;
   display: inline-block;
   text-align: center;
+  
+}
+.gatitopc{
+  width: 50vw;
+}
+.Wellcome {
+  position: absolute;
+   top: 2%;
+    left: 40%;
+    color:rgb(241, 158, 57);
+}
+.text1{
+  position:absolute;
+  top: 10%;
+  color:white;
+}
+.Readmore{
+  position:inherit;
+  margin-top: 20%;
+  left: 50%;
 }
 .Readmore:hover{
     background-color: bisque;
