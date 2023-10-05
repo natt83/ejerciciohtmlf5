@@ -1,0 +1,21 @@
+* {
+    background-color:#FFDFAF;
+}
+.color__brown {
+    background-color:#301C19;
+}
+.color__beige {
+    background-color:#FFDFAF;
+}
+
+.color__yellow {
+    background-color:#FFB254;
+}
+
+footer {
+    padding: 0px;
+    margin: 0px;
+}
+.div__yellow__footer {
+    display:flex;
+}
