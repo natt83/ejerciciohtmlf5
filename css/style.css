@@ -1,2 +1,18 @@
 @import url(top-main-style.css);
 @import url(middle-main-style.css);
+@import url(bottom-main-style.css);
+@import url(colors.css);
+
+.title__main {
+    text-align: center;
+}
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+.text {
+    width: 400px;
+    height: 100px;
+    text-align: center;
+}

@@ -1,4 +1,7 @@
-#top__section {
+#bottom__section {
     padding: 30px 200px;
     background-color: #FFDFAF;
+}
+#bottom__div {
+    height: 50px;
 }
