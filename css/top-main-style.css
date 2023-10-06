@@ -1,0 +1,18 @@
+#top__section {
+    padding: 30px 200px;
+    background-color: #FFDFAF;
+}
+
+.title__main {
+    text-align: center;
+}
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+.text {
+    width: 400px;
+    height: 100px;
+    text-align: center;
+}
