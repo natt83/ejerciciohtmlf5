@@ -1,18 +1,44 @@
 @import url(top-main-style.css);
 @import url(middle-main-style.css);
 @import url(bottom-main-style.css);
-@import url(colors.css);
 
-.title__main {
+* {
+    margin:0;
+    padding:0;
+}
+
+h2 {
     text-align: center;
+    padding: 70px;
+    color: rgb(166, 90, 52);
+
 }
 .flex {
     display: flex;
     justify-content: space-evenly;
-    gap: 50px;
 }
-.text {
-    width: 400px;
-    height: 100px;
+.position {
+    height: fit-content;
     text-align: center;
+    font-size: 20px;
+    padding-bottom: 70px;
+    margin: 0px 100px;
+}
+.background__image {
+    padding-top: 40px;
+    background-image: url(/assets/orange_cat.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h3 {
+    text-align: center;
+    margin: 15px;
+    color: rgb(166, 90, 52);
+}
+p {
+    color: #A3743F;
+}
+.color__background-section {
+    background-color: #FFDFAF;
 }
