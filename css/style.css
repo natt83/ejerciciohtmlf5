@@ -7,12 +7,21 @@
     padding:0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-
+#top__section {
+    height: fit-content;
+}
 h2 {
     text-align: center;
     padding: 70px;
     color: rgb(166, 90, 52);
-
+}
+h3 {
+    text-align: center;
+    margin: 15px;
+    color: rgb(166, 90, 52);
+}
+p {
+    color: #A3743F;
 }
 .flex {
     display: flex;
@@ -31,14 +40,6 @@ h2 {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-}
-h3 {
-    text-align: center;
-    margin: 15px;
-    color: rgb(166, 90, 52);
-}
-p {
-    color: #A3743F;
 }
 .color__background-section {
     background-color: #FFDFAF;
