@@ -1,0 +1,31 @@
+.wellcome{
+  color: rgb(247, 139, 8);
+position:absolute;
+top: 10%;
+left: 50%;
+font-size: 130%;}
+p{
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  font-size: 120%;
+  color: antiquewhite;
+}
+button{
+  position:absolute;
+  top:35%;
+  left: 60%;
+  
+}
+body{
+  background-repeat: no-repeat;
+  background-size:cover;
+  }
+  button{border-radius:18px;
+  }
+  button:hover{
+    background-color: bisque;}
+
+
+
+
