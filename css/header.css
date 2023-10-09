@@ -1,0 +1,30 @@
+#white {
+  color: aliceblue;
+  margin: 0px 300px 0px 300px;
+  text-align: center;
+  padding: 30px;
+}
+.wellcome {
+color:#FFB254;
+top: 10%;
+left: 50%;
+font-size: 130%;
+text-align: center;
+padding: 40px;
+}
+button{
+  text-align: center;
+  width: 100px;
+  padding: 10px 20px 10px 20px;
+  margin: 0px 50% 30px 50%;
+  justify-content: center;
+  border-radius: 20px;
+  
+}
+button:hover {
+  background-color: bisque;
+}
+
+
+
+
